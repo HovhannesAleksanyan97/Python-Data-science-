@@ -1,0 +1,5 @@
+print("Please enter your working Hours")
+hours=int(input())
+print("Please enter RAte")
+rate=int(input())
+print(f"Your pay is {hours*rate} ")
